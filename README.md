@@ -1,3 +1,3 @@
 # swagger_beego_example
 
-This is small exmaple how to add swagger for beego framework
+This is small example how to add swagger for beego framework
